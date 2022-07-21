@@ -95,3 +95,18 @@ h1 {
 .directions ol {
     font-size: 1.4rem;
 }
+
+/* #directions ol {
+    list-style: none;
+}
+
+#directions ol > li {
+    counter-increment: list-counter;
+    margin-bottom: 0.4rem;
+}
+
+#directions ol > li::before {
+    content: counter(list-counter) ")";
+    margin-right: 0.5rem;
+}
+*/
